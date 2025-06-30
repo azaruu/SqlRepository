@@ -1,0 +1,6 @@
+@SQLADO_3_HostAddress = http://localhost:5045
+
+GET {{SQLADO_3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
